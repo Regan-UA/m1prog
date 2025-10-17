@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\bin\Debug\net10.0\variableOpdracht1.exe
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\bin\Debug\net10.0\variableOpdracht1.deps.json
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\bin\Debug\net10.0\variableOpdracht1.runtimeconfig.json
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\bin\Debug\net10.0\variableOpdracht1.dll
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\bin\Debug\net10.0\variableOpdracht1.pdb
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\obj\Debug\net10.0\variableOpdracht1.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\obj\Debug\net10.0\variableOpdracht1.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\obj\Debug\net10.0\variableOpdracht1.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\obj\Debug\net10.0\variableOpdracht1.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\obj\Debug\net10.0\variableOpdracht1.dll
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\obj\Debug\net10.0\refint\variableOpdracht1.dll
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\obj\Debug\net10.0\variableOpdracht1.pdb
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\obj\Debug\net10.0\variableOpdracht1.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\02_var\stringvar\variableOpdracht1\obj\Debug\net10.0\ref\variableOpdracht1.dll

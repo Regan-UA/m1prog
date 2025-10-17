@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\obj\Debug\net10.0\uitVragen.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\obj\Debug\net10.0\uitVragen.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\obj\Debug\net10.0\uitVragen.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\obj\Debug\net10.0\uitVragen.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\bin\Debug\net10.0\uitVragen.exe
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\bin\Debug\net10.0\uitVragen.deps.json
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\bin\Debug\net10.0\uitVragen.runtimeconfig.json
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\bin\Debug\net10.0\uitVragen.dll
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\bin\Debug\net10.0\uitVragen.pdb
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\obj\Debug\net10.0\uitVragen.dll
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\obj\Debug\net10.0\refint\uitVragen.dll
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\obj\Debug\net10.0\uitVragen.pdb
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\obj\Debug\net10.0\uitVragen.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\05_collecties\uitVragen\obj\Debug\net10.0\ref\uitVragen.dll

@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\03_rekenen\plus\bin\Debug\net10.0\plus.exe
+C:\mediaCollege\M1Porg\03_rekenen\plus\bin\Debug\net10.0\plus.deps.json
+C:\mediaCollege\M1Porg\03_rekenen\plus\bin\Debug\net10.0\plus.runtimeconfig.json
+C:\mediaCollege\M1Porg\03_rekenen\plus\bin\Debug\net10.0\plus.dll
+C:\mediaCollege\M1Porg\03_rekenen\plus\bin\Debug\net10.0\plus.pdb
+C:\mediaCollege\M1Porg\03_rekenen\plus\obj\Debug\net10.0\plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\03_rekenen\plus\obj\Debug\net10.0\plus.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\03_rekenen\plus\obj\Debug\net10.0\plus.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\03_rekenen\plus\obj\Debug\net10.0\plus.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\03_rekenen\plus\obj\Debug\net10.0\plus.dll
+C:\mediaCollege\M1Porg\03_rekenen\plus\obj\Debug\net10.0\refint\plus.dll
+C:\mediaCollege\M1Porg\03_rekenen\plus\obj\Debug\net10.0\plus.pdb
+C:\mediaCollege\M1Porg\03_rekenen\plus\obj\Debug\net10.0\plus.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\03_rekenen\plus\obj\Debug\net10.0\ref\plus.dll

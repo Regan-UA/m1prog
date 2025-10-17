@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\obj\Debug\net10.0\fouten.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\obj\Debug\net10.0\fouten.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\obj\Debug\net10.0\fouten.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\obj\Debug\net10.0\fouten.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\bin\Debug\net10.0\fouten.exe
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\bin\Debug\net10.0\fouten.deps.json
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\bin\Debug\net10.0\fouten.runtimeconfig.json
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\bin\Debug\net10.0\fouten.dll
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\bin\Debug\net10.0\fouten.pdb
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\obj\Debug\net10.0\fouten.dll
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\obj\Debug\net10.0\refint\fouten.dll
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\obj\Debug\net10.0\fouten.pdb
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\obj\Debug\net10.0\fouten.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\02_var\stringvar\fouten\obj\Debug\net10.0\ref\fouten.dll

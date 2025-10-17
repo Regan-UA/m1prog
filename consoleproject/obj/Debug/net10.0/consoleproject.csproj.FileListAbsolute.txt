@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\consoleproject\bin\Debug\net10.0\consoleproject.exe
+C:\mediaCollege\M1Porg\consoleproject\bin\Debug\net10.0\consoleproject.deps.json
+C:\mediaCollege\M1Porg\consoleproject\bin\Debug\net10.0\consoleproject.runtimeconfig.json
+C:\mediaCollege\M1Porg\consoleproject\bin\Debug\net10.0\consoleproject.dll
+C:\mediaCollege\M1Porg\consoleproject\bin\Debug\net10.0\consoleproject.pdb
+C:\mediaCollege\M1Porg\consoleproject\obj\Debug\net10.0\consoleproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\consoleproject\obj\Debug\net10.0\consoleproject.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\consoleproject\obj\Debug\net10.0\consoleproject.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\consoleproject\obj\Debug\net10.0\consoleproject.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\consoleproject\obj\Debug\net10.0\consoleproject.dll
+C:\mediaCollege\M1Porg\consoleproject\obj\Debug\net10.0\refint\consoleproject.dll
+C:\mediaCollege\M1Porg\consoleproject\obj\Debug\net10.0\consoleproject.pdb
+C:\mediaCollege\M1Porg\consoleproject\obj\Debug\net10.0\consoleproject.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\consoleproject\obj\Debug\net10.0\ref\consoleproject.dll

@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\03_rekenen\operators\bin\Debug\net10.0\operators.exe
+C:\mediaCollege\M1Porg\03_rekenen\operators\bin\Debug\net10.0\operators.deps.json
+C:\mediaCollege\M1Porg\03_rekenen\operators\bin\Debug\net10.0\operators.runtimeconfig.json
+C:\mediaCollege\M1Porg\03_rekenen\operators\bin\Debug\net10.0\operators.dll
+C:\mediaCollege\M1Porg\03_rekenen\operators\bin\Debug\net10.0\operators.pdb
+C:\mediaCollege\M1Porg\03_rekenen\operators\obj\Debug\net10.0\operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\03_rekenen\operators\obj\Debug\net10.0\operators.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\03_rekenen\operators\obj\Debug\net10.0\operators.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\03_rekenen\operators\obj\Debug\net10.0\operators.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\03_rekenen\operators\obj\Debug\net10.0\operators.dll
+C:\mediaCollege\M1Porg\03_rekenen\operators\obj\Debug\net10.0\refint\operators.dll
+C:\mediaCollege\M1Porg\03_rekenen\operators\obj\Debug\net10.0\operators.pdb
+C:\mediaCollege\M1Porg\03_rekenen\operators\obj\Debug\net10.0\operators.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\03_rekenen\operators\obj\Debug\net10.0\ref\operators.dll

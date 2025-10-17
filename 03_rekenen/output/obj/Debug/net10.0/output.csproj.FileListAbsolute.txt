@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\03_rekenen\output\obj\Debug\net10.0\output.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\03_rekenen\output\obj\Debug\net10.0\output.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\03_rekenen\output\obj\Debug\net10.0\output.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\03_rekenen\output\obj\Debug\net10.0\output.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\03_rekenen\output\bin\Debug\net10.0\output.exe
+C:\mediaCollege\M1Porg\03_rekenen\output\bin\Debug\net10.0\output.deps.json
+C:\mediaCollege\M1Porg\03_rekenen\output\bin\Debug\net10.0\output.runtimeconfig.json
+C:\mediaCollege\M1Porg\03_rekenen\output\bin\Debug\net10.0\output.dll
+C:\mediaCollege\M1Porg\03_rekenen\output\bin\Debug\net10.0\output.pdb
+C:\mediaCollege\M1Porg\03_rekenen\output\obj\Debug\net10.0\output.dll
+C:\mediaCollege\M1Porg\03_rekenen\output\obj\Debug\net10.0\refint\output.dll
+C:\mediaCollege\M1Porg\03_rekenen\output\obj\Debug\net10.0\output.pdb
+C:\mediaCollege\M1Porg\03_rekenen\output\obj\Debug\net10.0\output.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\03_rekenen\output\obj\Debug\net10.0\ref\output.dll

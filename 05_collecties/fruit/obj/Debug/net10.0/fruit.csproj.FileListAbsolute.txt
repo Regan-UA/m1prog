@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\05_collecties\fruit\bin\Debug\net10.0\fruit.exe
+C:\mediaCollege\M1Porg\05_collecties\fruit\bin\Debug\net10.0\fruit.deps.json
+C:\mediaCollege\M1Porg\05_collecties\fruit\bin\Debug\net10.0\fruit.runtimeconfig.json
+C:\mediaCollege\M1Porg\05_collecties\fruit\bin\Debug\net10.0\fruit.dll
+C:\mediaCollege\M1Porg\05_collecties\fruit\bin\Debug\net10.0\fruit.pdb
+C:\mediaCollege\M1Porg\05_collecties\fruit\obj\Debug\net10.0\fruit.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\05_collecties\fruit\obj\Debug\net10.0\fruit.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\05_collecties\fruit\obj\Debug\net10.0\fruit.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\05_collecties\fruit\obj\Debug\net10.0\fruit.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\05_collecties\fruit\obj\Debug\net10.0\fruit.dll
+C:\mediaCollege\M1Porg\05_collecties\fruit\obj\Debug\net10.0\refint\fruit.dll
+C:\mediaCollege\M1Porg\05_collecties\fruit\obj\Debug\net10.0\fruit.pdb
+C:\mediaCollege\M1Porg\05_collecties\fruit\obj\Debug\net10.0\fruit.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\05_collecties\fruit\obj\Debug\net10.0\ref\fruit.dll

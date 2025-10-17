@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\03_rekenen\sommen\obj\Debug\net10.0\sommen.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\03_rekenen\sommen\obj\Debug\net10.0\sommen.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\03_rekenen\sommen\obj\Debug\net10.0\sommen.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\03_rekenen\sommen\obj\Debug\net10.0\sommen.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\03_rekenen\sommen\bin\Debug\net10.0\sommen.exe
+C:\mediaCollege\M1Porg\03_rekenen\sommen\bin\Debug\net10.0\sommen.deps.json
+C:\mediaCollege\M1Porg\03_rekenen\sommen\bin\Debug\net10.0\sommen.runtimeconfig.json
+C:\mediaCollege\M1Porg\03_rekenen\sommen\bin\Debug\net10.0\sommen.dll
+C:\mediaCollege\M1Porg\03_rekenen\sommen\bin\Debug\net10.0\sommen.pdb
+C:\mediaCollege\M1Porg\03_rekenen\sommen\obj\Debug\net10.0\sommen.dll
+C:\mediaCollege\M1Porg\03_rekenen\sommen\obj\Debug\net10.0\refint\sommen.dll
+C:\mediaCollege\M1Porg\03_rekenen\sommen\obj\Debug\net10.0\sommen.pdb
+C:\mediaCollege\M1Porg\03_rekenen\sommen\obj\Debug\net10.0\sommen.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\03_rekenen\sommen\obj\Debug\net10.0\ref\sommen.dll

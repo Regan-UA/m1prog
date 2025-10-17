@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\05_collecties\bruto\bin\Debug\net10.0\bruto.exe
+C:\mediaCollege\M1Porg\05_collecties\bruto\bin\Debug\net10.0\bruto.deps.json
+C:\mediaCollege\M1Porg\05_collecties\bruto\bin\Debug\net10.0\bruto.runtimeconfig.json
+C:\mediaCollege\M1Porg\05_collecties\bruto\bin\Debug\net10.0\bruto.dll
+C:\mediaCollege\M1Porg\05_collecties\bruto\bin\Debug\net10.0\bruto.pdb
+C:\mediaCollege\M1Porg\05_collecties\bruto\obj\Debug\net10.0\bruto.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\05_collecties\bruto\obj\Debug\net10.0\bruto.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\05_collecties\bruto\obj\Debug\net10.0\bruto.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\05_collecties\bruto\obj\Debug\net10.0\bruto.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\05_collecties\bruto\obj\Debug\net10.0\bruto.dll
+C:\mediaCollege\M1Porg\05_collecties\bruto\obj\Debug\net10.0\refint\bruto.dll
+C:\mediaCollege\M1Porg\05_collecties\bruto\obj\Debug\net10.0\bruto.pdb
+C:\mediaCollege\M1Porg\05_collecties\bruto\obj\Debug\net10.0\bruto.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\05_collecties\bruto\obj\Debug\net10.0\ref\bruto.dll

@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\bin\Debug\net10.0\enterplus.exe
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\bin\Debug\net10.0\enterplus.deps.json
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\bin\Debug\net10.0\enterplus.runtimeconfig.json
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\bin\Debug\net10.0\enterplus.dll
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\bin\Debug\net10.0\enterplus.pdb
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\obj\Debug\net10.0\enterplus.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\obj\Debug\net10.0\enterplus.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\obj\Debug\net10.0\enterplus.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\obj\Debug\net10.0\enterplus.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\obj\Debug\net10.0\enterplus.dll
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\obj\Debug\net10.0\refint\enterplus.dll
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\obj\Debug\net10.0\enterplus.pdb
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\obj\Debug\net10.0\enterplus.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\03_rekenen\enterplus\obj\Debug\net10.0\ref\enterplus.dll

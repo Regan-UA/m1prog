@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\codeplek\bin\Debug\net10.0\codeplek.exe
+C:\mediaCollege\M1Porg\codeplek\bin\Debug\net10.0\codeplek.deps.json
+C:\mediaCollege\M1Porg\codeplek\bin\Debug\net10.0\codeplek.runtimeconfig.json
+C:\mediaCollege\M1Porg\codeplek\bin\Debug\net10.0\codeplek.dll
+C:\mediaCollege\M1Porg\codeplek\bin\Debug\net10.0\codeplek.pdb
+C:\mediaCollege\M1Porg\codeplek\obj\Debug\net10.0\codeplek.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\codeplek\obj\Debug\net10.0\codeplek.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\codeplek\obj\Debug\net10.0\codeplek.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\codeplek\obj\Debug\net10.0\codeplek.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\codeplek\obj\Debug\net10.0\codeplek.dll
+C:\mediaCollege\M1Porg\codeplek\obj\Debug\net10.0\refint\codeplek.dll
+C:\mediaCollege\M1Porg\codeplek\obj\Debug\net10.0\codeplek.pdb
+C:\mediaCollege\M1Porg\codeplek\obj\Debug\net10.0\codeplek.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\codeplek\obj\Debug\net10.0\ref\codeplek.dll

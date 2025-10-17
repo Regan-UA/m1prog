@@ -1,0 +1,14 @@
+C:\mediaCollege\M1Porg\05_collecties\direct\bin\Debug\net10.0\direct.exe
+C:\mediaCollege\M1Porg\05_collecties\direct\bin\Debug\net10.0\direct.deps.json
+C:\mediaCollege\M1Porg\05_collecties\direct\bin\Debug\net10.0\direct.runtimeconfig.json
+C:\mediaCollege\M1Porg\05_collecties\direct\bin\Debug\net10.0\direct.dll
+C:\mediaCollege\M1Porg\05_collecties\direct\bin\Debug\net10.0\direct.pdb
+C:\mediaCollege\M1Porg\05_collecties\direct\obj\Debug\net10.0\direct.GeneratedMSBuildEditorConfig.editorconfig
+C:\mediaCollege\M1Porg\05_collecties\direct\obj\Debug\net10.0\direct.AssemblyInfoInputs.cache
+C:\mediaCollege\M1Porg\05_collecties\direct\obj\Debug\net10.0\direct.AssemblyInfo.cs
+C:\mediaCollege\M1Porg\05_collecties\direct\obj\Debug\net10.0\direct.csproj.CoreCompileInputs.cache
+C:\mediaCollege\M1Porg\05_collecties\direct\obj\Debug\net10.0\direct.dll
+C:\mediaCollege\M1Porg\05_collecties\direct\obj\Debug\net10.0\refint\direct.dll
+C:\mediaCollege\M1Porg\05_collecties\direct\obj\Debug\net10.0\direct.pdb
+C:\mediaCollege\M1Porg\05_collecties\direct\obj\Debug\net10.0\direct.genruntimeconfig.cache
+C:\mediaCollege\M1Porg\05_collecties\direct\obj\Debug\net10.0\ref\direct.dll
