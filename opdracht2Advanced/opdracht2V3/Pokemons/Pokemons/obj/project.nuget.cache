@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSyaL0+dvBc=",
+  "success": true,
+  "projectFilePath": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2V3\\Pokemons\\Pokemons\\Pokemons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zerus\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.305\\microsoft.net.sdk.compilers.toolset.9.0.305.nupkg.sha512",
+    "C:\\Users\\zerus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\zerus\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\zerus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\zerus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

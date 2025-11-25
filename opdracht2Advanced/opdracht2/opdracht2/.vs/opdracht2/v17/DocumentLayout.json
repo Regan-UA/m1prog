@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\views\\pokemons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|solutionrelative:opdracht2\\views\\pokemons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|solutionrelative:opdracht2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|solutionrelative:opdracht2\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|solutionrelative:opdracht2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|solutionrelative:opdracht2\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\data\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|solutionrelative:opdracht2\\data\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\views\\pokemons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|solutionrelative:opdracht2\\views\\pokemons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\opdracht2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|solutionrelative:opdracht2\\opdracht2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|solutionrelative:opdracht2\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|c:\\mediacollege\\m1prog\\opdracht2advanced\\opdracht2\\opdracht2\\opdracht2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C206B63F-1685-4287-99FE-9236ADC403D8}|opdracht2\\opdracht2.csproj|solutionrelative:opdracht2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,60 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 508,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "opdracht2\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "opdracht2\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:47:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "opdracht2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ToolTip": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "opdracht2\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T14:26:59.06Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Views\\Pokemons\\Index.cshtml",
-              "RelativeDocumentMoniker": "opdracht2\\Views\\Pokemons\\Index.cshtml",
-              "ToolTip": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Views\\Pokemons\\Index.cshtml",
-              "RelativeToolTip": "opdracht2\\Views\\Pokemons\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T14:24:55.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pokemon.cs",
-              "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Data\\Pokemon.cs",
-              "RelativeDocumentMoniker": "opdracht2\\Data\\Pokemon.cs",
-              "ToolTip": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Data\\Pokemon.cs",
-              "RelativeToolTip": "opdracht2\\Data\\Pokemon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T13:36:32.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "opdracht2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeToolTip": "opdracht2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T13:17:57.293Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "PokemonsController.cs",
               "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Controllers\\PokemonsController.cs",
               "RelativeDocumentMoniker": "opdracht2\\Controllers\\PokemonsController.cs",
@@ -107,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "opdracht2.csproj",
               "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\opdracht2.csproj",
               "RelativeDocumentMoniker": "opdracht2\\opdracht2.csproj",
@@ -119,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "opdracht2\\Pages\\Index.cshtml",
@@ -127,11 +108,12 @@
               "RelativeToolTip": "opdracht2\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T13:25:33.422Z"
+              "WhenOpened": "2025-11-19T13:25:33.422Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "opdracht2\\Pages\\Privacy.cshtml",
@@ -139,11 +121,45 @@
               "RelativeToolTip": "opdracht2\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-19T13:24:32.251Z"
+              "WhenOpened": "2025-11-19T13:24:32.251Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Views\\Pokemons\\Index.cshtml",
+              "RelativeDocumentMoniker": "opdracht2\\Views\\Pokemons\\Index.cshtml",
+              "ToolTip": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Views\\Pokemons\\Index.cshtml",
+              "RelativeToolTip": "opdracht2\\Views\\Pokemons\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T14:24:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "opdracht2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "opdracht2\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:17:57.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Data\\Pokemon.cs",
+              "RelativeDocumentMoniker": "opdracht2\\Data\\Pokemon.cs",
+              "ToolTip": "C:\\mediaCollege\\M1Prog\\opdracht2Advanced\\opdracht2\\opdracht2\\opdracht2\\Data\\Pokemon.cs",
+              "RelativeToolTip": "opdracht2\\Data\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T13:36:32.414Z"
             }
           ]
         },

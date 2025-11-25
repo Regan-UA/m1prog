@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Pokemons</h1>
+    @foreach (var p in Model.pokemons)
+    {
+            <div>@p.name</div>
+                <div>@p.price</div>
+                        <img src="@p.pic" alt="@p.pic" style="width:150px;height:auto"></img>
+    }
+</div>
